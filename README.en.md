@@ -140,6 +140,8 @@ Technology companies that allow remote work in Japan.
 | [moove Co., Ltd.](https://moove.co.jp/) | Moove Co., Ltd. is a company that mainly performs contracted development of web systems under the motto "Work Productively, Efficiently, and Enjoyably. We do not have any customer-resident or dispatched workers, and all processes are handled in-house. We have a telework day every Wednesday, and about 30% of our employees work completely by telework including other days of the week. For more details, please click [here](https://www.wantedly.com/projects/1050412). | | |
 | [Nikkei Inc.](https://www.nikkei.co.jp/nikkeiinfo/en/) | Nikkei provides valuable information for customers seeking affluence. While starting from the newspaper business, we utilize the latest technology to develop various information services such as digital media and databases, including the “Nikkei Electronic Edition”. | |
 | [Henry, Inc.](https://corp.henry-app.jp/) | Henry, Inc. is developing products with the mission of "keep solving social issues to make a brighter world". As a first step, we are currently developing "Henry" a cloud-based electronic medical record and receipt system, which is a core system for clinics and small to medium-sized hospitals. | :ok_hand: | |
+| [Susten Capital Management Inc.](https://susten.jp/) | Susten Capital Management Inc. is an early stage fintech startup in Tokyo founded by ex-Goldman Sachs, ex-Rakuten and ex-DeNA members in 2019. We're now hiring talented developers to develop our customer-facing web app with us. Our customers can manage their assets with our cutting-edge financial engineering methodology through our web service, "SUSTEN".|  | |
+
 
 ## Contributing
 
